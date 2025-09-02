@@ -18,6 +18,7 @@ Features
 
 ## Snippet of Output Example
 
+```
 Daily App Usage Report - 2025-09-02
 ===================================
 Code.exe: 0h 12m 56s
@@ -25,6 +26,7 @@ vivaldi.exe: 0h 18m 50s
 ...
 ===================================
 Total time spent: 10 apps: 0h 34m 34s
+```
 
 <img width="1127" height="659" alt="usage_pie_chart_2025-09-02" src="https://github.com/user-attachments/assets/15c774d4-4ce2-4ad2-be7e-f193198dec32" />
 
@@ -38,6 +40,7 @@ cd appTimer
 pip install -r requirements.txt
 ```
 Then run main.py
+
 You should edit the cwd variable in the script to let it know where to put log files, reports, and pie charts.
 
 ## License
